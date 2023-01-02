@@ -6,4 +6,4 @@ This homework is consisted of two parts:
   
 Two scripts of Python files were prepared and renamed accordingly.
 
-As requested, each file will provide a text file as requested.
+After running each file, a text file will be produced as requested.
